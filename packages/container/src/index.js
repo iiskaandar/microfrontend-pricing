@@ -1,0 +1,1 @@
+import('./bootstrap') //webpack zdązy wtedy załadowac wszystkie potrzebne biblioteki
